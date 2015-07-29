@@ -1,0 +1,25 @@
+.chart {
+    background-color: #FFF;
+}
+
+.chart rect {
+	stroke: white;
+    fill: steelblue;
+}
+
+.axis {
+    shape-rendering: crispEdges;
+}
+
+.x.axis line {
+    stroke: red;
+}
+
+.y.axis line {
+    stroke: red;
+}
+
+.axis text {
+    font-size: 12px;
+}
+

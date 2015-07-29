@@ -1,0 +1,118 @@
+{
+    "iTotalRecords":"6",
+    "iTotalDisplayRecords":"6",
+    "batchDetails":[
+        {
+        "appGroup":"EAD CAPLET",
+        "appName":"CA Clarity (6946)",
+        "cycleDate":"04/26/2015",
+        "trialName":"FENTDCEXT1",
+        "trialStatus":"Delayed",
+        "actualStartTime":"04/26/2015 8:00 PM"
+        },
+        {
+        "appGroup":"EAD CAPLET",
+        "appName":"Enterprise Integration Platform (7966)",
+        "cycleDate":"04/26/2015",
+        "trialName":"TIVERSA",
+        "trialStatus":"Delayed",
+        "actualStartTime":"04/26/2015 8:00 AM"
+        },
+        {
+        "appGroup":"EAD CAPLET",
+        "appName":"Enterprise Integration Platform (7966)",
+        "cycleDate":"04/25/2015",
+        "trialName":"TIVERSA",
+        "trialStatus":"Delayed",
+        "actualStartTime":"04/25/2015 8:00 AM"
+        },
+        {
+        "appGroup":"Data Customer Strategy & Marketing",
+        "appName":"IBDW (2933)",
+        "cycleDate":"04/25/2015",
+        "trialName":"Fascore PM",
+        "trialStatus":"Delayed",
+        "actualStartTime":"04/25/2015 8:02 AM"
+        },
+        {
+        "appGroup":"EAD CAPLET",
+        "appName":"Enterprise Integration Platform (7966)",
+        "cycleDate":"04/25/2015",
+        "trialName":"CONSUMERDIRECT Load",
+        "trialStatus":"Delayed",
+        "actualStartTime":"04/26/2015 12:15 AM"
+        },
+        {
+        "appGroup":"EAD CAPLET",
+        "appName":"Enterprise Integration Platform (7966)",
+        "cycleDate":"04/25/2015",
+        "trialName":"CALLEVENT",
+        "trialStatus":"Delayed",
+        "actualStartTime":"04/26/2015 1:00 AM"
+        },
+        {
+        "appGroup":"EAD FACT",
+        "appName":"OBI (7872)",
+        "cycleDate":"04/25/2015",
+        "trialName":"HR",
+        "trialStatus":"Delayed",
+        "actualStartTime":"04/25/2015 10:08 PM"
+        },
+        {
+        "appGroup":"EAD FACT",
+        "appName":"OBI (7872)",
+        "cycleDate":"04/25/2015",
+        "trialName":"GAAP Analytics",
+        "trialStatus":"Delayed",
+        "actualStartTime":"04/25/2015 10:08 PM"
+        },
+        {
+        "appGroup":"EAD CAPLET",
+        "appName":"PeopleSoft PO (1537)",
+        "cycleDate":"04/25/2015",
+        "trialName":"PO",
+        "trialStatus":"Delayed",
+        "actualStartTime":"04/25/2015 6:06 PM"
+        },
+        {
+        "appGroup":"EAD FACT",
+        "appName":"PS ERP - GL 9.1 MetAlico (8228)",
+        "cycleDate":"04/25/2015",
+        "trialName":"MetAlico",
+        "trialStatus":"Delayed",
+        "actualStartTime":"04/25/2015 8:00 PM"
+        },
+        {
+        "appGroup":"EAD FACT",
+        "appName":"Metfacs2 (5446)",
+        "cycleDate":"04/25/2015",
+        "trialName":"Premium",
+        "trialStatus":"Delayed",
+        "actualStartTime":"04/25/2015 10:00 PM"
+        },
+        {
+        "appGroup":"EAD FACT",
+        "appName":"Hyperion Planning and Budgeting (7871)",
+        "cycleDate":"04/25/2015",
+        "trialName":"HP EMEA",
+        "trialStatus":"Delayed",
+        "actualStartTime":"04/25/2015 8:00 AM"
+        },
+        {
+        "appGroup":"Dental & Health Risk Products",
+        "appName":"DPA (6525)",
+        "cycleDate":"04/25/2015",
+        "trialName":"DPA (Web)",
+        "trialStatus":"Delayed",
+        "actualStartTime":"04/25/2015 10:20 PM"
+        },
+        {
+        "appGroup":"Life New Business",
+        "appName":"CAS (2936)",
+        "cycleDate":"04/25/2015",
+        "trialName":"CAS Sunday Trail",
+        "trialStatus":"Delayed",
+        "actualStartTime":"04/25/2015 9:00 PM"
+        }
+    ]
+}
